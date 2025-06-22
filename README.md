@@ -15,7 +15,7 @@ Visualizes **PM2.5** and **PM10** air pollutant levels collected from environmen
 - Interactive filters: pollutant type, country, year, station range
 - Tooltip-enhanced station comparisons
 - Dynamic titles and data-driven styling
-- Built from open sensor data via a custom Python data collector
+- Built from open environmental data using the **SensorThings API**, accessed via a custom Python script
 
 📍 Technologies:
 `Power BI`, `Python`, `Azure`, `SensorThings API`
