@@ -10,7 +10,7 @@ This repository contains a collection of data visualization projects built using
 
 ### 🔸 **Air Quality Dashboard**
 
-Visualizes air pollutant levels such as **PM2.5**  **PM10** collected from environmental sensor networks over time.
+Visualizes air pollutant levels such as **PM2.5** and  **PM10** collected from environmental sensor networks over time.
 
 - Interactive filters: pollutant type, country, year, station range
 - Tooltip-enhanced station comparisons
