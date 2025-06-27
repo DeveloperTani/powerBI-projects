@@ -40,7 +40,7 @@ Whether you're exploring IoT sensor data, public datasets, or custom pipelines, 
 ## 📌 More Coming Soon
 Expect additions like:
 - Weather trends analysis
-- Real-time sensor mockups via Azure Edge + Power BI
+- Real-time sensor mockups via Azure Edge + Power BI (If I manage to get Microsoft 365 Developer Program sandbox subscription.)
 
 ---
 
