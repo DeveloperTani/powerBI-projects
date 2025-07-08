@@ -8,7 +8,7 @@ This repository contains my data visualization projects built using **Power BI**
 
 ##  Projects
 
-###  **Air Quality Dashboard**
+###  **Air Quality Report**
 
 Visualizes air pollutant levels such as **PM2.5** and  **PM10** collected from environmental sensor networks over time.
 
